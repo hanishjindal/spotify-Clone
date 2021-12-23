@@ -12,7 +12,7 @@
   width: 40vw;
 }
 
-.login button {
+.login a {
   padding: 1.5vh 5vw;
   border-radius: 50px;
   border: 0;
@@ -21,4 +21,5 @@
   cursor: pointer;
   font-size: 15px;
   font-weight: 600;
+  text-decoration: none;
 }
